@@ -1,2 +1,2 @@
-# DTEL_with_REF
-Data element with reference 
+# DDIC_with_REF
+Various DDIC objects with reference 
